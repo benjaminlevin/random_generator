@@ -1,0 +1,38 @@
+*{
+	width: auto;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: helvetica;
+}
+
+p{
+	text-align: center;
+}
+
+a{
+	display: block;
+	text-align: center;
+	text-decoration: none;
+}
+
+button{
+	width: 100px;
+	background-color: light-gray;
+	display: block;
+
+}
+
+h4{
+	text-align: center;
+	border: solid black 2px;
+	width: 20%;
+	padding: 4%;
+}
+
+#button_container {
+
+	width: 20%;
+	display: block;
+	margin-left: 40%;
+}
